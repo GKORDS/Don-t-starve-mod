@@ -1,5 +1,6 @@
 local GLOBAL = GLOBAL
 
+ codex/create-mod-for-infinite-buffs-in-dst-wvgpzd
 local INFINITE_VALUE = 999998
 local INFINITE_RANGE = 999998
 
@@ -122,3 +123,6 @@ end
 
 AddPrefabPostInit("winona_remote", BuffRemote)
 AddPrefabPostInit("winona_catapult", BuffCatapult)
+=======
+local INFINITE_VALUE = 999999
+ main
